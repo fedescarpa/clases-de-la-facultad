@@ -4,7 +4,7 @@ Criptografía
 
 **Docentes**
  * Jorge Eterovic
- * Marcelo Cipriano
+ * Marcelo Cipriano: ciprano1.618@gmail.com
 
 **Aula**: 423
 
