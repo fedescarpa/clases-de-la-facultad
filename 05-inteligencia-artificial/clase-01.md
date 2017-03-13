@@ -77,4 +77,3 @@ en la toma de decisiones.
 >   * K52/09 hasta punto 5
 >   * K52/12 pag [281; 287]
 >   * Web Campus `Ejemplos de Sistemas Expertos`
-
