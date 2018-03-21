@@ -75,5 +75,3 @@ Pasar una aplicación a un cable para hacer transferencia de datos es un problem
 ### Modelo de Internet (TCP/IP):
 
 ![Capas del Modelo TCP/IP](https://elcuadernodejhonny.files.wordpress.com/2011/10/figura2-1.jpg)
-
-
