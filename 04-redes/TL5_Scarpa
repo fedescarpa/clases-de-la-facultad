@@ -1,0 +1,18 @@
+Nombre de la PC:                  blade
+Grupo de Trabajo:                 WORKGROUP
+IP de la PC:                      192.168.3.44
+Mascara de Subred:                255.255.254.0
+Puerta de Enlace Predeterminada:  192.168.2.11
+Servidor DHCP de la Red:          192.168.2.9
+Dirección MAC de la Placa de Red: 9C:B6:D0:18:5F:AD
+
+
+
+1) Clase C.
+2) Su máscare es: 255.255.254.0 y no es la máscara por defecto.
+3) No.
+4) Privada - Estan reservadas las IP de Host y de Broadcast.
+5) 253.
+6) Brodcast: 192.168.3.255.
+7) Si, 253.
+8) No.
